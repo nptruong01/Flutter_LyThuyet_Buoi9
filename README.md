@@ -2,7 +2,7 @@
 
 # E-Commerce App
 
-## Screenshots
+### Screenshots
 
 
 <div align="center" style="margin-bottom: 20px;">
@@ -21,7 +21,7 @@
   <img src="https://github.com/nptruong01/Flutter_LyThuyet_Buoi9/assets/113322089/05468939-fda7-4ab6-8108-508e6d1d6494" width="200" alt="E-Commerce Screenshot 9">
 </div>
 
-## Getting Started
+### Getting Started
 
 To run this E-Commerce app on your local machine, follow these steps:
 <pre>
