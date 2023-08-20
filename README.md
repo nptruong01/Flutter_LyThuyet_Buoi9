@@ -33,6 +33,4 @@ To run this E-Commerce app on your local machine, follow these steps:
 </code>
 </pre>
 
-## Now you can explore the E-Commerce app's user interface and functionalities!
-
 
