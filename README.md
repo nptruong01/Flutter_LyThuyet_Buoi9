@@ -23,10 +23,15 @@ Welcome to the E-Commerce Flutter app repository! This app is designed to showca
 ## Getting Started
 
 To run this E-Commerce app on your local machine, follow these steps:
+<pre>
+<code>
    git clone https://github.com/nptruong01/Flutter_LyThuyet_Buoi9.git
    cd Flutter_LyThuyet_Buoi9/ECommerce
    flutter pub get
    flutter run
+</code>
+</pre>
+
 ## Now you can explore the E-Commerce app's user interface and functionalities!
 
 
